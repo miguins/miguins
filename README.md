@@ -8,4 +8,4 @@ I'm Lucas Miguins, a software developer, working with Java
 
 ![Miguins GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguins&theme=tokyonight&show_icons=true)
 
-[![Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguins&layout=compact&hide=javascript,html,css,ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguins&theme=tokyonight&layout=compact&hide=javascript,html,css,ruby)](https://github.com/anuraghazra/github-readme-stats)
