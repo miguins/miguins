@@ -1,4 +1,4 @@
-## Hi there, i'm Lucas Miguins, workings as a software developer
+## Hi there, i'm Lucas Miguins, working as a software developer
  <div>
   <a href="https://github.com/miguins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
