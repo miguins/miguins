@@ -41,6 +41,10 @@ Backend engineer with experience designing and building scalable APIs and distri
 ## Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguins&layout=compact&langs_count=7&theme=tokyonight&card_width=240"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguins&layout=compact&langs_count=7&theme=tokyonight&card_width=240&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miguins&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
