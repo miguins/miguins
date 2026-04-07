@@ -38,7 +38,7 @@ Backend engineer with experience designing and building scalable APIs and distri
 
 ---
 
-## Stats
+<!-- ## Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
@@ -46,5 +46,5 @@ Backend engineer with experience designing and building scalable APIs and distri
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguins&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+  <img src="https://github-trophies.vercel.app/?username=miguins&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div> -->
